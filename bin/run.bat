@@ -4,7 +4,7 @@ cd..
 set SCRIPTPATH=%cd%
 
 : top src directory
-set path="%SCRIPTPATH%\bin\src\github.com\leanote"
+set path="%SCRIPTPATH%\bin\src\github.com\goshx"
 
 if not exist "%path%" mkdir "%path%"
 
@@ -17,7 +17,7 @@ set GOPATH="%SCRIPTPATH%\bin"
 
 : run
 if %processor_architecture%==x86 (
-	"%SCRIPTPATH%\bin\leanote-windows-386.exe" -importPath github.com/leanote/leanote
+	"%SCRIPTPATH%\bin\leanote-windows-386.exe" -importPath github.com/goshx/leanote
 ) else (
-	"%SCRIPTPATH%\bin\leanote-windows-amd64.exe" -importPath github.com/leanote/leanote
+	"%SCRIPTPATH%\bin\leanote-windows-amd64.exe" -importPath github.com/goshx/leanote
 )

@@ -26,30 +26,30 @@ leanote是一款私有云笔记, 你可以下载它安装在自己的服务器�
 
 这里详细整理了leanote二进版和leanote开发版的安装教程, 请移步至:
 
-* [leanote二进制详细安装教程](https://github.com/leanote/leanote/wiki/leanote%E4%BA%8C%E8%BF%9B%E5%88%B6%E7%89%88%E8%AF%A6%E7%BB%86%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B)
-* [leanote开发版详细安装教程](https://github.com/leanote/leanote/wiki/leanote%E5%BC%80%E5%8F%91%E7%89%88%E8%AF%A6%E7%BB%86%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B)
+* [leanote二进制详细安装教程](https://github.com/goshx/leanote/wiki/leanote%E4%BA%8C%E8%BF%9B%E5%88%B6%E7%89%88%E8%AF%A6%E7%BB%86%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B)
+* [leanote开发版详细安装教程](https://github.com/goshx/leanote/wiki/leanote%E5%BC%80%E5%8F%91%E7%89%88%E8%AF%A6%E7%BB%86%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B)
 
 ## 4. 如何对leanote进行二次开发
 
-请查看 [How-to-develop-leanote](https://github.com/leanote/leanote/wiki/How-to-develop-leanote-%E5%A6%82%E4%BD%95%E5%BC%80%E5%8F%91leanote)
+请查看 [How-to-develop-leanote](https://github.com/goshx/leanote/wiki/How-to-develop-leanote-%E5%A6%82%E4%BD%95%E5%BC%80%E5%8F%91leanote)
 
 ## 5 相关文档
-* [leanote二进制版详细安装教程](https://github.com/leanote/leanote/wiki/leanote%E4%BA%8C%E8%BF%9B%E5%88%B6%E7%89%88%E8%AF%A6%E7%BB%86%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B)
-* [leanote开发版详细安装教程](https://github.com/leanote/leanote/wiki/leanote%E5%BC%80%E5%8F%91%E7%89%88%E8%AF%A6%E7%BB%86%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B)
-* [Leanote source leanote源码导读](https://github.com/leanote/leanote/wiki/Leanote-source-leanote源码导读)
-* [leanote blog theme api(中文版)](https://github.com/leanote/leanote/wiki/leanote-blog-theme-api)
-* [How to develop leanote 如何开发leanote](https://github.com/leanote/leanote/wiki/How-to-develop-leanote-如何开发leanote)
+* [leanote二进制版详细安装教程](https://github.com/goshx/leanote/wiki/leanote%E4%BA%8C%E8%BF%9B%E5%88%B6%E7%89%88%E8%AF%A6%E7%BB%86%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B)
+* [leanote开发版详细安装教程](https://github.com/goshx/leanote/wiki/leanote%E5%BC%80%E5%8F%91%E7%89%88%E8%AF%A6%E7%BB%86%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B)
+* [Leanote source leanote源码导读](https://github.com/goshx/leanote/wiki/Leanote-source-leanote源码导读)
+* [leanote blog theme api(中文版)](https://github.com/goshx/leanote/wiki/leanote-blog-theme-api)
+* [How to develop leanote 如何开发leanote](https://github.com/goshx/leanote/wiki/How-to-develop-leanote-如何开发leanote)
 
-更多文档请查看 [wiki](https://github.com/leanote/leanote/wiki).
+更多文档请查看 [wiki](https://github.com/goshx/leanote/wiki).
 
 ## 6. 贡献者
-多谢 [贡献者](https://github.com/leanote/leanote/graphs/contributors) 的贡献, leanote因有你们而更完美!
+多谢 [贡献者](https://github.com/goshx/leanote/graphs/contributors) 的贡献, leanote因有你们而更完美!
 
 ## 7. 加入我们
 
-欢迎提交[pull requests](https://github.com/leanote/leanote/pulls) 到leanote.
+欢迎提交[pull requests](https://github.com/goshx/leanote/pulls) 到leanote.
 
-有任何问题或建议, 欢迎提交[issue](https://github.com/leanote/leanote/issues).
+有任何问题或建议, 欢迎提交[issue](https://github.com/goshx/leanote/issues).
 
 Leanote还有很多问题, 如果你喜欢它, 欢迎加入我们一起完善leanote.
 
@@ -57,8 +57,8 @@ Leanote还有很多问题, 如果你喜欢它, 欢迎加入我们一起完善lea
 支持我们, [捐赠Leanote](http://leanote.org/#donate). 感谢[捐赠者](http://leanote.leanote.com/post/leanote-donation-list), 谢谢你们的鼓励, Leanote会一直坚持!
 
 ## 9. 其它相关项目
-* [Leanote Desktop App](https://github.com/leanote/desktop-app), [下载地址](http://app.leanote.com)
-* [Leanote IOS](https://github.com/leanote/leanote-ios), [从App Store下载](https://itunes.apple.com/zn/app/leanote/id1022302858?mt=8)
+* [Leanote Desktop App](https://github.com/goshx/desktop-app), [下载地址](http://app.leanote.com)
+* [Leanote IOS](https://github.com/goshx/leanote-ios), [从App Store下载](https://itunes.apple.com/zn/app/leanote/id1022302858?mt=8)
 * [Leanote Android](https://github.com/Dminter/leanote-android-client), 开发阶段
 
 欢迎加入我们!

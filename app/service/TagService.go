@@ -1,11 +1,12 @@
 package service
 
 import (
-	"github.com/leanote/leanote/app/db"
-	"github.com/leanote/leanote/app/info"
-	//	. "github.com/leanote/leanote/app/lea"
-	"gopkg.in/mgo.v2/bson"
+	"github.com/goshx/leanote/app/db"
+	"github.com/goshx/leanote/app/info"
+	//	. "github.com/goshx/leanote/app/lea"
 	"time"
+
+	"gopkg.in/mgo.v2/bson"
 )
 
 /*

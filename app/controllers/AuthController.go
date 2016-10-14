@@ -1,10 +1,11 @@
 package controllers
 
 import (
-	"github.com/leanote/leanote/app/info"
-	. "github.com/leanote/leanote/app/lea"
-	"github.com/revel/revel"
 	"strings"
+
+	"github.com/goshx/leanote/app/info"
+	. "github.com/goshx/leanote/app/lea"
+	"github.com/revel/revel"
 	//	"strconv"
 )
 
